@@ -1,0 +1,11 @@
+NameSpace: karned
+AppName: api-credential
+
+DockerImage: killiankopp/api-credential:1.0.0
+
+Port: 8000
+
+API_NAME: api-credential
+API_TAG_NAME: credential
+
+URL_API_GATEWAY: https://api.karned.bzh
