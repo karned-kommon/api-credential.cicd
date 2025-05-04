@@ -1,7 +1,7 @@
 NameSpace: karned
 AppName: api-credential
 
-DockerImage: killiankopp/api-credential:1.0.0
+DockerImage: killiankopp/api-credential:1.0.1
 
 Port: 8000
 
